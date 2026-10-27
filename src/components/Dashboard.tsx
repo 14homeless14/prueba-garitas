@@ -61,7 +61,7 @@ export function Dashboard() {
       </section>
 
       <p className="text-center text-xs text-zinc-500">
-        Fuente: CBP · actualizado {updated} · se renueva cada{" "}
+        Fuente: CBP · consultado {updated} · se renueva cada{" "}
         {REFRESH_MINUTES} min
       </p>
     </>
